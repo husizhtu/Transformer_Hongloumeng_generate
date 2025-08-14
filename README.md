@@ -1,0 +1,2 @@
+# Transformer_Hongloumeng_generate
+生成红楼梦风格文字，仅用于Transformer架构学习
